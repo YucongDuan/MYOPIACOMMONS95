@@ -1,5 +1,7 @@
 # DIKWP-MYOPIACOMMONS95
 
+Created by Yucong Duan (段玉聪).
+
 ## Global Myopia Recovery, Progression Management, High-Myopia Safety, Access Equity and Evidence Accountability OS
 
 DIKWP-MYOPIACOMMONS95 is an English-only, local-first, open-source reference system for people with myopia, families, clinicians, researchers, public-health programmes, and other AI or Agent systems.
